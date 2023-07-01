@@ -4,9 +4,22 @@ it need telegram bot API token that you can get from
 https://t.me/BotFather
 and needs your telegram id that you can get from 
 https://t.me/my_id_bot
+
 Note: The script is 100% safety and there is no leaks for the token or id and the prove from the raw source code
 
 Commands to work:
+
 pkg update && pkg upgrade
+
 pkg install python3
+
+pkg install git
+
+git clone https://github.com/R4P-x/T-Users.git
+
+cd T-Users
+
+python3 setup.py
+
+python3 T.py
 
