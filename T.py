@@ -2,6 +2,7 @@ import os
 import random
 import requests
 from multiprocessing import Pool
+print("Please make sure that you read README.md")
 ID = input("Enter your Telegram id  : ")
 TOKEN= input('Enter your telegram bot token  : ')
 def check_username(username):
